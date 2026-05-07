@@ -1,0 +1,13 @@
+# Flask Configuration
+FLASK_ENV=development
+SECRET_KEY=dev-secret-key-change-in-production
+
+# Database URL (SQLite for development)
+DATABASE_URL=sqlite:///database.db
+
+# Admin Credentials
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin123
+
+# Port (optional)
+PORT=5000
