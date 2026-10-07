@@ -1,4 +1,4 @@
-# 🎓 EventHub — College Event Management System
+ # 🎓 EventHub — College Event Management System
 
 A full-featured web application for managing college events with QR-based entry and real-time attendance tracking. **Now with shareable event links!**
 
